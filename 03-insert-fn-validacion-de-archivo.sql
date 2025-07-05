@@ -9,7 +9,7 @@ INSERT INTO `dev_config_zone.process_params` (
     'fn-validacion-de-archivo-gcs',
     JSON '''
     [
-        {"path_name": "files/{{path_destino}}/{{nombre_archivo}}.parquet", "periodicidad": "{{periodicidad}}"}
+        {"path_name": "files/{{path_destino}}/{{nombre_archivo}}", "periodicidad": "{{periodicidad}}"}
     ]
     ''',
     'workflow-arquetipo-ingesta-raw-{{version_arquetipo_raw}}',
