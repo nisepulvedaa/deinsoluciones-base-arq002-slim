@@ -8,14 +8,14 @@ VARIABLES_PERMITIDAS = {
     "nombre_proceso",
     "version_arquetipo_raw",
     "periodicidad",
+    "buckets_detino",
     "path_destino",
+    "proyecto",
     "nombre_archivo",
     "dataset_raw_zone",
     "nombre_tabla_raw",
     "campo_fecha_tabla_raw",
-    "fecha_ejecucion",
-    "input",
-    "output"
+    "fecha_ejecucion"
 }
 
 # === Extraer solo las variables válidas desde config.py ===
