@@ -16,6 +16,7 @@ VARIABLES_PERMITIDAS = {
     "nombre_tabla_raw",
     "campo_fecha_tabla_raw",
     "fecha_ejecucion",
+    "ddl_raw",
     "correos_destinatarios"
 }
 
