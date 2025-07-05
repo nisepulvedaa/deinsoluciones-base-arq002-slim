@@ -15,7 +15,8 @@ VARIABLES_PERMITIDAS = {
     "dataset_raw_zone",
     "nombre_tabla_raw",
     "campo_fecha_tabla_raw",
-    "fecha_ejecucion"
+    "fecha_ejecucion",
+    "correos_destinatarios"
 }
 
 # === Extraer solo las variables válidas desde config.py ===

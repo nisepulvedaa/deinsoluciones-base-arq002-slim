@@ -11,3 +11,5 @@ dataset_raw_zone=""
 nombre_tabla_raw=""
 campo_fecha_tabla_raw=""
 fecha_ejecucion=""
+##
+correos_destinatarios=""
