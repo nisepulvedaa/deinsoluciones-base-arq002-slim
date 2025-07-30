@@ -3,10 +3,10 @@ version_arquetipo_raw="" #slim|full
 periodicidad="diario"# diario|mensual|esporadico
 ##ORIGIN
 buckets_detino=""
-path_name=""
+path_destino=""
 nombre_archivo=""
 ##RAW
-proyecto="deinsoluciones-serveless"
+proyecto="deinsoluciones-serverless"
 dataset_raw_zone=""
 nombre_tabla_raw=""
 campo_fecha_tabla_raw=""
