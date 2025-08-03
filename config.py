@@ -1,3 +1,4 @@
+nombre_evaluador=""
 nombre_proceso="" #nombre-proceso
 version_arquetipo_raw="" #slim|full
 periodicidad="diario"# diario|mensual|esporadico
