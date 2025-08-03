@@ -5,6 +5,7 @@ from pathlib import Path
 
 # === Variables específicas que deseas reemplazar ===
 VARIABLES_PERMITIDAS = {
+    "nombre_evaluador",
     "nombre_proceso",
     "version_arquetipo_raw",
     "periodicidad",
